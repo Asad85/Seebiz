@@ -1,0 +1,31 @@
+.wrapperdiv{
+    border-radius: 17px;
+    padding: 80px;
+    background-color: lightgrey;
+}
+
+.formcontainer{
+
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+}
+
+.img-thumbnail{
+    width: 80px;
+    
+}
+
+.textp{
+
+    
+    top: 643px;
+    right: 41x;
+    left: 614px;
+}
+.formcontainer .text_area{  
+    display: flex;
+    margin-bottom: 16%;
+    align-items: end;
+    padding-left: 20px;
+}
